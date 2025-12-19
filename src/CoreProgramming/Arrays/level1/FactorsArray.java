@@ -19,10 +19,15 @@ public class FactorsArray {
                     for (int j = 0; j < factIndex; j++) {
                         temp[j] = factors[j];
                     }
-
+                    factors = temp;
                 }
                 factors[factIndex] = i;
+                factIndex += 1;
             }
+        }
+        System.out.println("The factors of the number "+number+" are :");
+        for (int i = 0; i < factIndex; i++) {
+            System.out.print(factors[i]+ " ");
         }
     }
 }
