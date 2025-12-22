@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.ClassAndObject.level1;
+package ObjectOrientedProgramming.OPPFundamental.level1;
 import java.util.Scanner;
 
 class MobilePhone {
