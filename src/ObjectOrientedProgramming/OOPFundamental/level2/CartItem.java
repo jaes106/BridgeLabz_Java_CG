@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.OPPFundamental.level2;
+package ObjectOrientedProgramming.OOPFundamental.level2;
 import java.util.Scanner;
 
 class CartItem {
