@@ -1,4 +1,4 @@
-package CoreProgramming.StringHandling;
+package CoreProgramming.Extras.StringHandling;
 import java.util.Scanner;
 
 class ToggleCase {

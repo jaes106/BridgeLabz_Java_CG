@@ -1,4 +1,4 @@
-package CoreProgramming.BuiltInFunction.level2;
+package CoreProgramming.Extras.BuiltInFunction.level2;
 import java.util.Scanner;
 
 class FibonacciGenerator {
